@@ -6,7 +6,7 @@ An advanced, highly available enterprise network simulation designed for the **F
 The Federal Flight Agency network is divided into 5 distinct zones, each isolated with specific subnetting rules to optimize traffic and enhance security. The core architecture relies on a centralized HQ router acting as the primary hub, with a fully redundant backbone switch network ensuring 100% uptime for critical departments.
 
 ## 🖼️ Network Topology
-![Federal Flight Agency Topology](topology.jpg)
+![Federal Flight Agency Topology](topology.png)
 
 ## 🛠️ Key Technologies & Protocols Implemented
 * **Routing:** RIPv2 (with `no auto-summary`), Static Routing, Floating Static Routing.
